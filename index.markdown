@@ -5,6 +5,6 @@
 layout: home
 ---
 
-### Computer vision
+### Introduction to image processing
 
-This course provides an overview of computer vision, emphasizing the mathematical models used for various applications.
+This course provides an overview of image processing, emphasizing mathematical description and models used for various applications.
