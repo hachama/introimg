@@ -21,8 +21,8 @@
 title: Welcome
 email: hachamam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Course: Computer vision.
-baseurl: "/vision" # the subpath of your site, e.g. /blog
+  Course: Image processing.
+baseurl: "/introimg" # the subpath of your site, e.g. /blog
 url: "https://github.com/hachama" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
