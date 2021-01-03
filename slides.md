@@ -3,14 +3,12 @@ layout: page
 title: Slides
 key: page-about
 ---
-
-
+January 2020January 2020
+January 2020January 2020
 #### <a name="intro"></a> 1. Introduction   
 [Back to material](material)
 
-<script async class="speakerdeck-embed" data-id="196fe0045c3d4e42a330a248e85e9eb8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-
-
+<script async class="speakerdeck-embed" data-id="7638857c039c4066a99918dcb0c8e09c" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 #### <a name="segm"></a> 2. Spatial filtering
 [Back to material](material)
