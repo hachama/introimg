@@ -15,8 +15,7 @@ key: page-about
 
 #### <a name="fit"></a> 3. Frequential filtering
 [Back to material](material)
- 
-
+<script async class="speakerdeck-embed" data-id="6a9d3b59dfa34e73bf50833f89303d2a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 #### <a name="motion"></a> 4. Restoration
 [Back to material](material)
