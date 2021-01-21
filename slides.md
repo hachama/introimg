@@ -17,12 +17,12 @@ key: page-about
 [Back to material](material)
 <script async class="speakerdeck-embed" data-id="6a9d3b59dfa34e73bf50833f89303d2a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-#### <a name="motion"></a> 4. Restoration
+#### <a name="resto"></a> 4. Restoration
 [Back to material](material)
+<script async class="speakerdeck-embed" data-id="0da3438ca5fb40bd92d2e8a8d7b9b96c" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 
-
-#### <a name="form"></a> 5. Segmentation
+#### <a name="segm"></a> 5. Segmentation
 [Back to material](material)
 
 
