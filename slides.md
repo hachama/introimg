@@ -24,5 +24,5 @@ key: page-about
 
 #### <a name="segm"></a> 5. Segmentation
 [Back to material](material)
-
+<script async class="speakerdeck-embed" data-id="35e65ed3534a49869171894fd1052183" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
