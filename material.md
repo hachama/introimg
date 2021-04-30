@@ -20,6 +20,7 @@ key: page-about
 | 11-13   | Segmentation                    | [Slides 5](slides#segm)  | [TP 3](tp/TP_3.pdf) | [TD 5](td/TD5.pdf)|
 |=========+=================================+==========================+=====================+===================|
 
-Exams: [20-21](td/exam21.pdf)
+Exams: [20-21](td/Exam_21.pdf)
+
 Retake: 
 
