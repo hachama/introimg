@@ -11,10 +11,7 @@ key: page-about
 |   1     |Introduction                     | [Slides 1](slides#intro) | [TP 1](tp/TP_1.pdf) | [TD 1](td/TD1.pdf)|  [Lecture 1](td/TD1.pdf)  |
 |=========+=================================+==========================+=====================+===================+===================|
 |:-------:|:-------------------------------:|:------------------------:|:-------------------:|:-----------------:|:-----------------:|
-|  2-4    | Spatial processing              | [Slides 2](slides#spat)  |           -         | [TD 2](td/TD2.pdf)|     <tr> <td  align="center"> 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/0ilTmJcyrL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </td> </tr>
-|
+|  2-4    | Spatial processing              | [Slides 2](slides#spat)  |           -         | [TD 2](td/TD2.pdf)|    [![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)|
 |:-------:|:-------------------------------:|:------------------------:|:-------------------:|:-----------------:|:-----------------:|
 |  5-7    | Frequential processing          | [Slides 3](slides#freq)  |           -         | [TD 3](td/TD3.pdf)|                   |
 |:-------:|:-------------------------------:|:------------------------:|:-------------------:|:-----------------:|:-----------------:|
