@@ -6,8 +6,7 @@ key: page-about
 
 #### <a name="intro"></a> 1. Introduction   
 [Back to material](material)
-
-<script async class="speakerdeck-embed" data-id="7638857c039c4066a99918dcb0c8e09c" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script defer class="speakerdeck-embed" data-id="a5213a02f4ff40f6ac39927ad783455f" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 #### <a name="spat"></a> 2. Spatial filtering
 [Back to material](material)
