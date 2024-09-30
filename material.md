@@ -8,7 +8,7 @@ key: page-about
 |---------+---------------------------------+--------------------------+---------------------------------+-------------------+-----------------------|
 | Week    |          Chapter                | Slides/Scribes           | Assignemts/Projects             | Problem sets      |   Assignment Deadline |
 |:-------:|:-------------------------------:|:------------------------:|:-------------------------------:|:-----------------:|:---------------------:|
-|   1     |Introduction                     | [Slides 1](slides#intro) | [Assignment 1](tp/assign1.pdf)  | [PS 1](td/ps1.pdf)| **October 8, 2024 **  |
+|   1     |Introduction                     | [Slides 1](slides#intro) | [Assignment 1](tp/assign1.pdf)  | [PS 1](td/ps1.pdf)|   October 8, 2024     |
 |=========+=================================+==========================+=====================+===================+===================================|
 |:-------:|:-------------------------------:|:------------------------:|:-------------------------------:|:-----------------:|:---------------------:|
 |  2-3    | Spatial processing              | [Slides 2](slides#spat)  | [Assignment 2](tp/assign2.pdf)  | [PS 2](td/ps2.pdf)|                       |
@@ -22,6 +22,5 @@ key: page-about
 | 11-13   | Segmentation                    | [Slides 6](slides#segm)  | [[Assignment 6](tp/assign6.pdf) | [PS 6](td/ps6.pdf)|                       | 
 |=========+=================================+==========================+=================================+===================+=======================|
 
-Video lectures
-
-[![Lecture 1](lect/lect1.png)](https://youtu.be/lMgA7niNkmA) 
+#Video lectures
+#[![Lecture 1](lect/lect1.png)](https://youtu.be/lMgA7niNkmA) 
