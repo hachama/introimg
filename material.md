@@ -22,5 +22,5 @@ key: page-about
 | 11-13   | Segmentation                    | [Slides 6](slides#segm)  | [[Assignment 6](tp/assign6.pdf) | [PS 6](td/ps6.pdf)|                       | 
 |=========+=================================+==========================+=================================+===================+=======================|
 
-#Video lectures
-#[![Lecture 1](lect/lect1.png)](https://youtu.be/lMgA7niNkmA) 
+[//]: <> (Video lectures)
+[//]: <> ([![Lecture 1](lect/lect1.png)](https://youtu.be/lMgA7niNkmA))
