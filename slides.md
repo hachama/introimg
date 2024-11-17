@@ -16,7 +16,7 @@ key: page-about
 [Back to material](material)
 <script defer class="speakerdeck-embed" data-id="6423a7e10b534102a737266119568273" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-#### <a name="freq"></a> 4. Compression
+#### <a name="compress"></a> 4. Compression
 [Back to material](material)
 <script defer class="speakerdeck-embed" data-id="b9984359d7164ae3a4dfd31dd552c662" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
