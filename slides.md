@@ -20,9 +20,10 @@ key: page-about
 [Back to material](material)
 <script defer class="speakerdeck-embed" data-id="b9984359d7164ae3a4dfd31dd552c662" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-#### <a name="resto"></a> 5. Restoration
+#### <a name="segm"></a> 5. Segmentation
 [Back to material](material)
+<script defer class="speakerdeck-embed" data-id="35e65ed3534a49869171894fd1052183" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-#### <a name="segm"></a> 6. Segmentation
+#### <a name="resto"></a> 6. Restoration
 [Back to material](material)
 
