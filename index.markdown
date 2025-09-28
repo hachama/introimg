@@ -11,4 +11,4 @@ This course provides an overview of image processing, emphasizing mathematical d
 
 The course is now availbe at:
 
-[canvas.instructure.com/courses/11488597](canvas.instructure.com/courses/11488597)
+[canvas.instructure.com/courses/11488597](http://canvas.instructure.com/courses/11488597)
