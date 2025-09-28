@@ -9,6 +9,6 @@ layout: home
 
 This course provides an overview of image processing, emphasizing mathematical description and models used for various applications.
 
-The course is now availbe at:
+The "updated" course is now availbe at:
 
 [canvas.instructure.com/courses/11488597](http://canvas.instructure.com/courses/11488597)
